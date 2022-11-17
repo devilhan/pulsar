@@ -1,0 +1,9 @@
+
+message queue:
+  
+  2003 -> activemq
+  2006 -> rabbitmq
+  2010 -> kafka
+  2011 -> pulsar    -> 大型公司会用 -> apache的顶级项目 -> 源自雅虎（zookeeper、hadoop）
+  
+  
